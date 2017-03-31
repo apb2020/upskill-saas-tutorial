@@ -16,7 +16,8 @@
  
 @import 'bootstrap-sprockets';
 @import 'bootstrap';
-
+@import 'font-awesome-sprockets';
+@import 'font-awesome';
 //Typography styles
 h2, h1, h3 {
     font-family:"Open Sans", sans-serif;
