@@ -18,12 +18,12 @@
 @import 'bootstrap';
 @import 'font-awesome-sprockets';
 @import 'font-awesome';
-//Typography styles
+// Typography styles
 h2, h1, h3 {
     font-family:"Open Sans", sans-serif;
 }
 
-//Background gradient
+// Background gradient
 .navbar, .home-callout {
     //gradient provided by @_ighosh at uigradients.com
     background: #1A2980; /* fallback for old browsers */
@@ -31,7 +31,7 @@ h2, h1, h3 {
     background: linear-gradient(to left, #1A2980 , #26D0CE); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
 }
 
-//Nav styles
+// Nav styles
 .navbar {
     border:none;
 }
